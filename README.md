@@ -1,3 +1,3 @@
 ![Screenshot](analis.png)
-![Screenshot]("naive bayes.png")
+![Screenshot](naive%20bayes.png)
 ![Screenshot](hasil.png)
